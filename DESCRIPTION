@@ -2,7 +2,7 @@ Package: multicmp
 Type: Package
 Title: Flexible Modeling of Multivariate Count Data via the
         Multivariate Conway-Maxwell-Poisson Distribution
-Version: 1.0
+Version: 1.1
 Authors@R: c(
     person("Kimberly", "Sellers", email = "Kimberly.Sellers@georgetown.edu", role = "aut"),
     person("Darcy" , "Steeg Morris", role = "aut"),
@@ -16,12 +16,12 @@ URL: http://dx.doi.org/10.1016/j.jmva.2016.04.007
 BugReports: https://github.com/diagdavenport/multicmp/issues
 License: GPL-3
 LazyData: TRUE
-RoxygenNote: 6.0.0
+RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-05-21 23:11:32 UTC; Diag Davenport
+Packaged: 2018-06-29 11:57:48 UTC; Diag Davenport
 Author: Kimberly Sellers [aut],
   Darcy Steeg Morris [aut],
   Narayanaswamy Balakrishnan [aut],
   Diag Davenport [aut, cre]
 Repository: CRAN
-Date/Publication: 2017-05-22 04:17:44 UTC
+Date/Publication: 2018-06-29 12:08:59 UTC
